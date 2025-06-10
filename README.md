@@ -1,3 +1,3 @@
-# exercicio_pcea
+# FUNDAMENTOS P. C. E A. DE COMPUTADORES
 
-## Fazer um fork desse repositório e enviar uma alteração no README.md, com um parágrafo sobre essa matéria.
+## A matéria Fundamentos Para Computação e Arquitetura de Computadores traz conhecimentos introdutórios a cerca de Sistemas de Informação, Hardware e Software, Organização dos Sistemas de Computação e Carreira, Tendências e Fundamentos gerenciais da tecnologia da informação. 
